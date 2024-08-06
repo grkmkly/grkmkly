@@ -2,7 +2,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://media.licdn.com/dms/image/D4D03AQH8Axx1q3QbPg/profile-displayphoto-shrink_400_400/0/1693700504249?e=1728518400&v=beta&t=bSgICKeY3xaxndWOFLSysdebgehgV4fwvKls8c8vXZE">
 </picture>
 <!--
 **grkmkly/grkmkly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
