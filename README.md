@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, Welcome My Github 👋
+<h5>Hi, I'm Görkem. I am studying computer engineering at Selçuk University.</h5>
+<h5>I am currently working on writing services on the backend side on GO language.</h5>
 
 <!--
 **grkmkly/grkmkly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
