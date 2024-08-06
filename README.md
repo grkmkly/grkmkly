@@ -1,5 +1,7 @@
 ## Hi, Welcome My Github 👋
-<img src="https://avatars.githubusercontent.com/u/53435806?v=4" width="200" height="200" alt="Resim Açıklaması">
+
+<img src="https://avatars.githubusercontent.com/u/53435806?v=4" width="200" height="200" alt="Resim Açıklaması">  
+
 * **Hi, I'm Görkem. I am studying computer engineering at Selçuk University. I am currently working on writing services on the backend side on GO language.**
 * **I am proficient in using C++ , C#, GO and Git. I also continue my training on other technologies MONGODB and Unity. I am constantly researching new tools and techniques to make the development process more efficient using these technologies.**
 
