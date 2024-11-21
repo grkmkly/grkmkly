@@ -19,8 +19,8 @@
 | Selcuk University | Computer Engineering **(2023 - Present)** |
 
 ## Contact 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="30" height="30" alt="Resim Açıklaması">   **Instagram** - **[grkmkly_35](instagram.com/grkmkly_35/)**
-* <img src="https://st4.depositphotos.com/1000417/41563/v/1600/depositphotos_415634850-stock-illustration-linkedin-logo-vector-editorial-illustration.jpg" width="30" height="30" alt="Resim Açıklaması"> **Linkedin** - **[grkmkly](https://www.linkedin.com/in/grkmkly/)**
+* **Instagram** - **[grkmkly_35](instagram.com/grkmkly_35/)**
+* **Linkedin** - **[grkmkly](https://www.linkedin.com/in/grkmkly/)**
 
 <!--
 **grkmkly/grkmkly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
